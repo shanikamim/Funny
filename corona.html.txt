@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>COVID-19 Logo</title>
+
+        <style>
+            .bigCircle
+            {
+                position:absolute;
+                left:50px;
+                top: 50px;
+                width:100px;
+                height:100px;
+                border-radius:50%;
+                background-color: #aa62e3;
+            }
+            .circle1
+            {
+                border-radius:50%;
+                background-color: #8746ba;
+            }
+            .circle2
+            {
+                border-radius:50%;
+                background-color: #56287a;
+            }
+
+            .circle3
+            {
+                border-radius:50%;
+                background-color: #56287a;
+            }
+            .sqr
+            {
+                background-color: #56287a;
+            }
+
+             .circle4
+            {
+                border-radius:50%;
+                background-color: #8746ba
+            }
+             .sqr2
+            {
+                background-color: #8746ba;
+            }
+        </style>
+    </head>
+
+    <body>
+
+         <div style="transform: rotate(-5deg); position:absolute; left:145px; top:90px;">
+         <div style="width:20px; height:5px;" class="sqr"></div>
+         <div style="position:absolute; left:15px; top:-8px; width:10px; height:20px;" class="circle3"></div>
+         </div>
+
+         <div style="transform: rotate(-100deg); position:absolute; left:80px; top:40px;">
+         <div style="width:20px; height:5px;" class="sqr"></div>
+         <div style="position:absolute; left:15px; top:-8px; width:10px; height:20px;" class="circle3"></div>
+         </div>
+
+         <div style="transform: rotate(110deg); position:absolute; left:70px; top:150px;">
+         <div style="width:20px; height:5px;" class="sqr"></div>
+         <div style="position:absolute; left:15px; top:-8px; width:10px; height:20px;" class="circle3"></div>
+         </div>
+
+         <div style="transform: rotate(200deg); position:absolute; left:50px; top:70px;">
+         <div style="width:15px; height:5px;" class="sqr2"></div>
+         <div style="position:absolute; left:15px; top:-8px; width:7px; height:20px;" class="circle4"></div>
+         </div>
+
+         <div style="transform: rotate(60deg); position:absolute; left:120px; top:145px;">
+         <div style="width:15px; height:5px;" class="sqr2"></div>
+         <div style="position:absolute; left:15px; top:-8px; width:7px; height:20px;" class="circle4"></div>
+         </div>
+
+         <div class="bigCircle"></div>
+         <div style="position:absolute; left:60px; top: 60px; width:20px; height:20px;" class="circle1"></div>
+         <div style="position:absolute; left:90px; top: 90px; width:20px; height:20px;" class="circle1"></div>
+         <div style="position:absolute; left:80px; top: 110px; width:10px; height:10px;" class="circle1"></div>
+         <div style="position:absolute; left:130px; top: 110px; width:20px; height:20px;" class="circle2"></div>
+         <div style="position:absolute; left:120px; top: 70px; width:10px; height:10px;" class="circle2"></div>
+         <div style="position:absolute; left:100px; top: 75px; width:7px; height:7px;" class="circle2"></div>
+         <div style="position:absolute; left:70px; top: 130px; width:15px; height:15px;" class="circle2"></div>
+         <div style="position:absolute; left:100px; top: 120px; width:7px; height:7px;" class="circle1"></div>
+         <div style="position:absolute; left:120px; top: 85px; width:7px; height:7px;" class="circle1"></div>
+         <div style="position:absolute; left:100px; top: 140px; width:15px; height:15px;" class="circle1"></div>
+         <div style="position:absolute; left:45px; top: 90px; width:15px; height:15px;" class="circle1"></div>
+         <div style="position:absolute; left:70px; top: 90px; width:10px; height:10px;" class="circle2"></div>
+         <div style="position:absolute; left:110px; top: 110px; width:10px; height:10px;" class="circle2"></div>
+         <div style="position:absolute; left:110px; top: 50px; width:15px; height:15px;" class="circle2"></div>
+
+         <div style="position:absolute; top:200px; left:50px;"><h1>CORONA VIRUS</h1></div>
+    </body>
+</html>
